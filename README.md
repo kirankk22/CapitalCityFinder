@@ -50,11 +50,17 @@ Test Objectives
 Tools and Technologies
 
 Language: Java
+
 Test Framework: TestNG
+
 Automation: Selenium WebDriver
+
 Data Input: Apache POI (Excel)
+
 Dependency Mgmt: Maven
+
 Browser: Chrome
+
 
 Test Data
 Excel File: testdata.xlsx
