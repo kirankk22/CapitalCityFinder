@@ -15,9 +15,9 @@ This is implemented with
 5. Rest Assured (CapitalCityAPITest)
 6. Extent Report
 
-====================================================
+============================================
                  Test Plan Document
-====================================================
+============================================
 Test Plan ID
 TP-001-CountryCapitalVerification
 
