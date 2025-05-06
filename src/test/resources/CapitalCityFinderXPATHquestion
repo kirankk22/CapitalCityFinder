@@ -1,0 +1,11 @@
+Write a dynamic xpath that would return the capital city corresponding to a country
+
+Example :
+
+If I write 'India' in the xpath, the xpath should return 'New Delhi'
+
+Use the following website url :
+https://www.countries-ofthe-world.com/capitals-of-the-world.html
+
+Solution :
+//td[text()='India']/following-sibling::td
