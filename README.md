@@ -92,6 +92,8 @@ Test Scenarios & Cases
 | TC002 | Validate capital of Albania      | Albania      | Tirana           |
 | TC003 | Validate capital of Australia    | Australia    | Canberra         |
 
+- [CapitalCity_Manual_TestCases.xlsx](https://github.com/user-attachments/files/20073545/CapitalCity_Manual_TestCases.xlsx)
+
 Risks & Mitigation
 - XPath breaks -> Use robust dynamic XPath
 - HTML spacing -> Use normalize-space()
@@ -102,6 +104,7 @@ Deliverables
 - testdata.xlsx
 - TestNG Report
 - Test Plan Document
+
   
 Review and Approvals
 
